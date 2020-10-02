@@ -1204,6 +1204,7 @@ bzip2:
 
 --------------------------------------------------------------------------------
 args
+intl
 
 Copyright 2013, the Dart project authors. All rights reserved.
 Redistribution and use in source and binary forms, with or without
@@ -4992,8 +4993,13 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 dart
 
-Copyright (c) 2020, the Dart project authors.  Please see the AUTHORS file
-for details. All rights reserved.
+Copyright 2009 The Go Authors. All rights reserved.
+Use of this source code is governed by a BSD-style
+license that can be found in the LICENSE file
+--------------------------------------------------------------------------------
+dart
+
+Copyright 2012, the Dart project authors.
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are
@@ -5020,14 +5026,10 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 dart
+wasmer
 
-Copyright 2009 The Go Authors. All rights reserved.
-Use of this source code is governed by a BSD-style
-license that can be found in the LICENSE file
---------------------------------------------------------------------------------
-dart
-
-Copyright 2012, the Dart project authors.
+Copyright (c) 2020, the Dart project authors.  Please see the AUTHORS file
+for details. All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are
@@ -14196,7 +14198,7 @@ wasmer
 
 MIT License
 
-Copyright (c) 2019 Wasmer, Inc. and its affiliates.
+Copyright (c) 2019-present Wasmer, Inc. and its affiliates.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
